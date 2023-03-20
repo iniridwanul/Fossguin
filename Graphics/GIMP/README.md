@@ -1,3 +1,7 @@
+<p align="center">
+        <img src="../../assets/gimp.png" alt="GNU Image Manipulation Program"/>
+</p>
+
 ## GIMP
 The GNU Image Manipulation Program. GIMP is a free and open-source raster graphics editor used for image manipulation and image editing, free-form drawing, transcoding between different image file formats, and more specialized tasks.
 
